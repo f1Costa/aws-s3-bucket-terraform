@@ -34,7 +34,7 @@ This project uses Terraform to provision an S3 bucket in the US East (N. Virgini
 
 
 
-[![Terraform - Básico ao Avançado](https://danielgilcursos.blob.core.windows.net/images/terraform-basico-ao-avancado.png)](https://www.udemy.com/course/terraform-do-basico-ao-avancado/?couponCode=TERRAFORM_JUN24)
+![Terraform - Básico ao Avançado](https://danielgilcursos.blob.core.windows.net/images/terraform-basico-ao-avancado.png)
 
 
-![Docker - Básico ao Avançado](https://danielgilcursos.blob.core.windows.net/images/docker-basico-ao-avancado.png)
+
