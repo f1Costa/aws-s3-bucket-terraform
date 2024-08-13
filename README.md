@@ -21,7 +21,7 @@ This project uses Terraform to provision an S3 bucket in the US East (N. Virgini
 
 ## Requirements
 
-- Terraform v1.0+
+- Terraform v1.3+
 - AWS CLI configured with appropriate credentials
 
 
